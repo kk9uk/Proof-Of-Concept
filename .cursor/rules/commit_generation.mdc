@@ -1,0 +1,1 @@
+When generating commit message, follow conventional commit and start with a category such as `feat: `, `chore: `, or `fix: `, and then only give one line commit message
